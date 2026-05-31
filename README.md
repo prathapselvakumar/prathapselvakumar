@@ -42,4 +42,4 @@
 ## 📫 Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-prathapsk.vercel.app-blue?style=flat&logo=vercel)](https://prathapsk.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fprathapsk-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/prathapsk)
-[![Email](https://img.shields.io/badge/Email-iprathapselva%40gmail.com-D14836?style=flat&logo=gmail)](mailto:iprathapselva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-iprathapselva%40gmail.com-D14836?style=flat&logo=gmail)](mailto:prathapsk@hotmail.com)
